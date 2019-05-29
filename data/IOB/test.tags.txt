@@ -1,0 +1,300 @@
+O B-verb.stative O O B-noun.person O B-verb.communication O
+O B-verb.perception O O O O B-noun.person O O O O B-noun.body O
+O B-verb.possession O O B-noun.act O O O O B-noun.feeling O O O B-noun.state O B-noun.act O
+B-verb.stative O B-noun.person O O O O O O O O O O B-noun.person O B-verb.stative O B-noun.food O B-noun.food O O B-verb.possession B-noun.quantity O O O B-noun.person O B-noun.body B-verb.stative O O O
+O B-noun.person B-verb.stative O O B-noun.artifact O O B-verb.cognition O O O O B-verb.perception I-verb.perception O O B-noun.body O
+B-noun.body O B-verb.stative O O O O O O O O B-noun.attribute O O O O O B-noun.feeling B-verb.emotion O O O
+O O O O B-verb.perception O O O O O O O B-noun.person B-verb.stative O O O B-verb.communication O O B-verb.change B-verb.social O O O B-noun.person O
+O O O O O O B-verb.cognition O O
+O O B-verb.change O O O B-noun.time O O B-noun.act O O O B-noun.event O O B-verb.change I-verb.change O O O
+O B-noun.person O O B-noun.body O B-verb.motion O B-noun.cognition O B-verb.change O B-verb.motion O B-noun.artifact O O B-noun.communication O O O O B-noun.artifact I-noun.artifact B-verb.motion O O B-noun.artifact O
+B-noun.artifact B-verb.communication O O B-noun.artifact B-verb.perception O O O O B-noun.person O O O B-verb.contact O O O O B-verb.communication I-verb.communication O O O B-noun.time O O
+O B-noun.communication O B-verb.stative O O B-noun.Tops O O O B-verb.creation O B-noun.cognition O O O O O O O O
+O O O O O O O O O O B-verb.emotion O O O O B-noun.person O O B-verb.contact O
+O O O B-verb.emotion O B-verb.contact O B-noun.body O O B-noun.artifact B-verb.social I-verb.social O B-noun.event O O O B-noun.person B-verb.motion O O O B-noun.artifact O B-verb.motion O O O O
+O O O O B-noun.person O B-verb.communication O O O B-verb.change O B-noun.body O O B-noun.body O O O B-verb.stative O O B-noun.person O
+O O B-noun.person B-verb.change O B-verb.communication O O O O O O O O B-verb.stative O O B-noun.cognition O O B-verb.social O O B-noun.act O
+O O B-noun.person O B-verb.social B-verb.motion O B-verb.perception O O O B-noun.person I-noun.person O B-noun.body O O B-verb.communication O B-noun.communication O
+O O O O B-noun.person B-verb.stative B-verb.communication O O O B-verb.motion O O B-noun.body O O O O B-noun.artifact O
+O O O B-verb.cognition O O B-noun.cognition O O B-noun.event O
+O O B-verb.cognition O O O O O B-verb.cognition O O O O O B-verb.perception O O B-noun.body O B-verb.communication O O O O
+O O O B-verb.stative O B-noun.attribute O B-noun.attribute O O B-verb.possession O B-noun.act O B-verb.communication O B-noun.communication O
+O O B-noun.communication B-verb.change O B-noun.artifact O O B-verb.motion I-verb.motion O O B-noun.artifact O
+O O O B-noun.person B-verb.cognition I-verb.cognition O O B-verb.stative O O O O O O O O B-noun.artifact O O B-verb.communication O B-verb.possession O B-verb.possession B-noun.food O O O O O
+O O B-verb.motion O O B-verb.social I-verb.social I-verb.social O B-verb.contact O O B-noun.artifact O B-verb.stative O B-noun.time O B-verb.emotion O O B-noun.feeling O
+O O B-verb.cognition O O O B-verb.communication B-noun.state O O O O B-noun.food O O O O B-verb.possession O B-noun.possession O O B-noun.act O
+O B-verb.stative O O O
+O O B-verb.communication O O B-verb.stative O O O B-verb.possession O B-noun.person O B-noun.state O
+O O O O B-verb.possession O B-noun.communication O O O O B-verb.stative O B-verb.cognition O O
+O O O B-verb.change O B-noun.act O O O O B-verb.cognition O O O O O B-verb.possession B-verb.stative O B-noun.communication I-noun.communication O O O B-verb.stative O O B-noun.communication O O O O O B-verb.perception O B-verb.body O O B-verb.stative O B-verb.perception O
+O B-verb.social O O B-noun.communication O
+O O O O O B-verb.cognition O O O O O
+B-noun.communication O O O
+O O B-noun.shape B-verb.change O O B-noun.person O B-noun.body O
+O O B-verb.cognition O O O B-verb.cognition O O O O O
+O B-verb.communication O O
+O O B-verb.stative O B-noun.cognition O B-noun.feeling O
+O O O O B-verb.contact O O B-noun.artifact O O B-verb.stative O O O O
+O O B-verb.possession B-noun.act O
+O O B-verb.creation B-noun.Tops O B-noun.person O B-verb.emotion O
+O O O B-verb.stative O O B-noun.possession O O O
+B-verb.communication I-verb.communication O B-verb.social O O O O O B-verb.contact O B-noun.body O O
+O O B-verb.change O B-verb.body O O
+O O O B-verb.stative O O B-verb.communication O B-noun.person O O B-verb.creation O B-noun.act O
+O O O O B-verb.cognition B-noun.Tops O B-verb.change O O O O O B-verb.stative O O B-noun.group O O O O O B-verb.communication O O O O O O B-verb.cognition O O O O B-verb.social I-verb.social I-verb.social O B-noun.person O
+O B-verb.stative B-verb.communication O O O B-verb.emotion O B-verb.perception O O B-noun.artifact O B-verb.creation O O O B-verb.perception O B-noun.act O
+O B-verb.communication O B-noun.person B-verb.communication O O O O O B-verb.cognition O O
+O O O O B-verb.communication O O O O B-verb.emotion O O O O O B-noun.person B-verb.contact O B-noun.body O B-verb.communication O
+O O B-verb.perception O O O O B-verb.perception O B-verb.emotion O
+O O O
+B-verb.possession O O B-noun.communication O
+O O B-verb.possession O B-noun.time O
+O B-verb.emotion O B-verb.cognition O B-noun.person O B-noun.act O B-noun.act O O
+O B-verb.cognition O O O B-verb.change O B-verb.stative O O B-noun.event O
+O B-noun.act O O O B-verb.perception O O
+O O O O B-verb.stative O B-noun.cognition O O B-noun.person O O
+O O B-noun.body B-verb.change O O
+O B-noun.person O O O O B-verb.body O O
+O O B-verb.stative O B-noun.act I-noun.act I-noun.act O O O B-verb.communication O B-noun.time O O O O O B-verb.creation O B-noun.act O O B-noun.person B-verb.motion I-verb.motion O B-verb.communication B-noun.communication O
+O B-verb.social O O O O B-noun.person B-noun.act O O B-noun.artifact O O O O O B-verb.emotion B-verb.emotion O B-verb.perception O O O B-verb.perception O B-verb.perception O B-noun.act O
+O B-verb.cognition O B-verb.motion O O O O O O B-noun.time B-verb.motion O B-verb.perception O O O O O B-noun.person O O B-verb.stative O O O O O O B-noun.artifact O O B-noun.artifact O
+O B-noun.event O B-noun.time O B-verb.motion O O B-noun.artifact O B-verb.body I-verb.body I-verb.body O B-verb.contact O O B-noun.event O O B-noun.cognition O O B-verb.body I-verb.body O
+O O B-noun.time O O O O B-noun.state B-verb.cognition O O O O B-verb.stative O B-noun.time O O
+O B-noun.state O B-verb.cognition O O O B-noun.communication O O B-noun.person O O O B-verb.communication O
+O B-verb.motion O O B-noun.artifact O O O B-noun.time O O B-verb.motion O O B-noun.person O O O O O B-verb.stative O O O O O O O O O B-noun.person B-verb.stative O B-noun.cognition O O B-noun.state O
+O B-verb.body O B-verb.communication O O
+O O O O O O
+O O O B-noun.person B-verb.stative O O O
+O O O O O O B-verb.contact O O B-noun.possession O O B-noun.possession O O B-noun.person O O O B-verb.emotion O B-noun.person O B-verb.social B-noun.Tops O O B-verb.motion B-noun.location O B-noun.artifact O O O B-verb.motion O B-verb.perception O O O O O B-noun.location O O O O O
+O O B-noun.artifact O B-noun.group O B-verb.contact O O B-verb.communication O O
+O B-noun.body B-verb.stative O O O B-noun.feeling O O B-verb.communication O O O B-noun.person B-noun.person O O B-verb.change O
+O B-noun.person O B-verb.change O
+O O B-noun.time O O B-verb.perception O O O B-verb.motion O O B-noun.artifact O O O O B-noun.act O B-noun.act O
+O O O B-verb.stative O O
+B-noun.person B-verb.perception O B-noun.event O O O O B-noun.event O O B-noun.body B-verb.change O O B-noun.artifact O O O B-noun.artifact B-noun.act B-noun.artifact O
+O B-verb.emotion O B-noun.person B-verb.perception O O B-noun.attribute O O O B-verb.perception O B-noun.body B-verb.change O O B-noun.body O
+O B-verb.communication B-noun.Tops O O O O B-verb.stative O O B-verb.motion O O B-noun.attribute O O B-noun.artifact O
+O O O B-noun.artifact O O B-verb.motion O B-noun.food O O B-noun.body O B-verb.motion O O O B-noun.artifact O
+O O B-noun.time O B-verb.change O B-verb.emotion O O O O O O O O B-verb.social O B-verb.communication O B-noun.communication O
+O O O O O O O O O O O O O O B-verb.communication O O O B-verb.stative O B-noun.event O O O B-noun.event O
+O B-noun.person O B-verb.possession B-noun.quantity O B-verb.social O O O O O O B-verb.body I-verb.body I-verb.body O O O O O O B-verb.stative O O O O B-noun.person O
+O O O O B-noun.person B-verb.possession O B-noun.group O O O O B-verb.emotion O O O B-verb.stative O O O O O
+O O O B-verb.communication O O O O B-verb.contact O B-noun.person O O O B-noun.act O O O O B-verb.cognition O O O B-verb.communication O O B-verb.communication O
+O B-noun.person O B-noun.body B-verb.stative O O O O O O O O O B-verb.emotion O B-noun.feeling O
+O B-verb.stative O O O O O B-noun.cognition O O O O B-noun.cognition O B-verb.stative O O B-noun.communication O O B-noun.cognition O
+O O O B-verb.cognition O B-verb.stative O O B-noun.cognition O
+O O B-verb.stative O O O O O B-verb.cognition O O B-verb.stative O
+O B-verb.stative O O B-noun.artifact O O O B-verb.stative O B-noun.time O O O B-noun.time O O O B-verb.possession O B-noun.communication O B-verb.consumption O O O O
+O O O B-verb.contact O O O B-noun.location O O O B-noun.artifact O O O O O O O O O O B-noun.person O
+O O B-verb.emotion O O B-noun.act O B-verb.consumption I-verb.consumption O B-noun.person B-noun.feeling O B-noun.food O O O B-noun.substance O
+O O B-noun.feeling B-verb.stative O O B-noun.person O
+O O O O B-verb.cognition O O O
+O O O O O B-verb.communication O O O B-noun.communication O O B-noun.time O
+O O B-noun.feeling B-verb.stative O O
+O O B-noun.state O O O O O O O O O O B-verb.social O B-noun.shape O O O O O B-noun.location O O B-noun.artifact O O B-verb.change O O O B-verb.stative O O O
+O B-verb.perception O O O B-noun.body O B-verb.perception O B-noun.person B-verb.contact O O B-noun.artifact O B-verb.body O O B-noun.communication O O O O O O B-verb.stative O B-noun.person O
+O O O O B-verb.perception O O B-verb.stative O B-noun.communication O O O O O O O O O B-verb.perception O B-verb.motion I-verb.motion O
+O B-noun.person B-verb.stative O O O O B-noun.state O O B-verb.creation O O B-noun.event O O B-noun.state O
+O B-verb.emotion I-verb.emotion B-verb.motion O O O O O O O O B-verb.social O O B-noun.artifact O O O O O O B-noun.person O
+O B-verb.change O B-verb.emotion O O O O B-verb.communication O O B-noun.time O O B-noun.artifact B-verb.competition I-verb.competition O O B-noun.artifact O
+O O O O B-verb.stative B-verb.contact O O O O O B-noun.person O O O O O O O O O B-verb.change B-verb.motion O O O O O B-noun.location O O
+O O O B-noun.attribute O O B-verb.communication O O B-noun.person O B-verb.communication O O O B-verb.stative O O O B-noun.attribute O B-noun.person O O B-verb.change I-verb.change O B-noun.body O
+O B-verb.social O B-noun.act O B-verb.communication O O O B-noun.attribute O O O B-verb.cognition O O B-noun.cognition O O B-verb.communication O O B-noun.attribute O B-noun.attribute O
+O B-verb.body O O O B-verb.change O O O O
+O O O B-verb.emotion O B-verb.communication O B-noun.state O O B-verb.cognition O O O B-verb.possession O O B-noun.food O O O B-verb.social O B-noun.event O
+O O B-verb.stative O B-noun.event O
+O B-noun.person O O O B-noun.food O O B-verb.emotion O O O B-noun.state O B-noun.communication O
+O B-verb.change O O B-noun.state O O B-verb.change O B-verb.communication O
+O O O O B-noun.food O O O O B-verb.communication O O O B-noun.person O O B-verb.possession O O B-noun.communication O O B-noun.time O O O O B-verb.perception O O B-noun.cognition O O B-noun.person O O B-verb.communication O O O B-noun.attribute O O O O B-noun.body O
+O O B-verb.stative O B-verb.change O B-noun.body O O B-noun.person B-verb.communication I-verb.communication O
+O O O B-verb.possession O B-noun.communication O O O O B-verb.motion I-verb.motion O O B-noun.person O O O O B-verb.emotion O O O B-verb.communication O O O O B-verb.social O O O O O B-verb.body O
+O O B-noun.person O B-verb.emotion O B-noun.act O O O B-verb.communication O
+O O O O B-verb.possession B-noun.quantity O O O B-verb.possession O
+B-noun.possession I-noun.possession B-noun.communication O O B-verb.cognition O
+O O O O B-verb.possession I-verb.possession O B-noun.group O B-verb.possession I-verb.possession O O O B-noun.possession O
+O O O O O O O B-verb.communication O O
+O O O O
+O O B-verb.cognition O
+O O B-verb.cognition O O O O B-verb.stative O O B-noun.location O O O
+O B-verb.motion O O O B-verb.social O
+O B-verb.stative O O O O O B-verb.social O O B-noun.act O O O O
+O O O B-verb.communication O O O O O O
+O B-verb.emotion O B-noun.feeling O B-noun.feeling O O B-verb.perception O O O B-noun.cognition O O
+O O O B-noun.cognition B-verb.motion B-noun.act O O O B-noun.cognition O
+B-verb.communication O O B-verb.communication O B-noun.person B-verb.stative O O O B-verb.communication O B-verb.stative O O O O O B-noun.person O O B-verb.stative O O B-noun.person O O B-noun.event O B-verb.creation O
+O O O B-verb.stative O B-noun.attribute I-noun.attribute O O O B-verb.social B-noun.Tops O O O
+O B-verb.emotion O O O O O O O O O B-verb.consumption O O O B-noun.person O B-noun.attribute I-noun.attribute O
+O O B-noun.act B-verb.cognition O O O B-verb.communication O O
+O O O B-verb.stative O O O O O O B-verb.cognition O
+O B-noun.person O O B-verb.communication O B-noun.event O O O B-verb.cognition O B-verb.stative O B-noun.event O
+O O O O O O B-verb.cognition O O O O
+O O O B-verb.stative O B-noun.event O O
+O B-verb.body O O
+O O O O B-verb.communication O B-verb.social O O O B-noun.person O B-verb.communication O
+O B-noun.body B-verb.weather O O
+O O O O O O O B-verb.communication O O
+O O O O B-verb.perception O O B-noun.event O
+O O B-verb.creation O O B-noun.attribute O O O O O B-noun.time O O B-noun.person B-verb.possession O B-noun.communication O
+B-verb.communication O B-verb.social O O O O
+O B-verb.cognition O O B-verb.social O O B-noun.act O O O O
+O B-verb.cognition O O
+O B-verb.perception O B-noun.food O O B-noun.location O O B-noun.artifact O
+O O B-noun.event O O O O B-noun.person O O O B-noun.location O O O B-verb.social O O O B-noun.person O O O B-verb.stative O B-noun.cognition O O O O O O O B-noun.cognition O O O O O O O B-verb.stative O O B-noun.event O O O B-noun.time I-noun.time O
+O O O O B-noun.act B-noun.time O O O O O O O B-noun.relation O O B-noun.group O O B-noun.location B-verb.cognition O O B-noun.group O B-noun.person O O O O O O O O O O O
+O O B-noun.relation O B-verb.stative O O O O O B-verb.stative O O B-noun.relation O
+O O B-verb.cognition O B-noun.person B-verb.stative O B-verb.social B-noun.person O O B-noun.event O B-noun.act O O O O O O
+O O O B-noun.act O O O B-noun.time I-noun.time O O O O O O B-noun.act O O O O B-verb.contact O O B-noun.relation O O O O B-noun.cognition O B-noun.act O O O O O B-noun.location O O O B-noun.cognition O O O
+O O O O O B-noun.act B-verb.stative O O B-noun.relation O
+O B-verb.stative O O B-noun.event O O B-noun.time O O O O B-noun.cognition O B-verb.possession O O O O B-noun.communication O O B-noun.state I-noun.state B-verb.perception O B-noun.person O O B-noun.artifact I-noun.artifact O
+O B-noun.cognition B-verb.cognition O O B-noun.communication O O O B-noun.person O O B-verb.possession O O O O B-noun.cognition O O B-verb.cognition O O B-noun.person O O O B-noun.cognition O B-verb.cognition O O O B-noun.group O O O B-noun.attribute O O B-noun.act O O B-noun.attribute O O B-noun.act O O O O B-noun.cognition O B-verb.cognition O O B-noun.group O O O B-noun.act O B-verb.change O B-noun.attribute O O O B-noun.cognition O O B-noun.attribute O
+O O O B-noun.person B-verb.possession O O B-noun.act O B-verb.social O B-noun.state O B-verb.social O O B-noun.cognition O O B-noun.act O O B-verb.possession B-noun.act I-noun.act B-noun.act O B-noun.act O B-verb.possession B-noun.possession O B-verb.possession B-noun.attribute O O B-noun.group O O O O B-verb.social O O B-noun.cognition O B-noun.group B-noun.act O B-noun.possession I-noun.possession O O
+O O O O B-noun.person O O O O B-noun.cognition O O O B-noun.group O B-verb.stative O O O B-verb.social O O O O B-verb.stative O B-noun.person O O O
+O O B-noun.communication B-verb.stative O B-noun.person O B-noun.event O O B-verb.communication O O O B-noun.cognition O O O O O O O B-verb.possession O B-noun.motive O O O B-noun.shape O O B-verb.stative O O
+O O B-verb.contact O O O B-noun.state O O O O O B-verb.possession O O O O B-noun.possession O O O B-noun.person O B-verb.stative O O O B-verb.social O B-noun.person O O B-verb.motion B-noun.location O O O O O O B-noun.group O
+O B-noun.person O O O O B-verb.stative O O O O O O O B-verb.stative O O B-noun.cognition B-noun.act O
+O B-noun.event O O O O O O B-noun.person O B-noun.motive O O O B-noun.shape O B-verb.stative O B-verb.stative O O
+O O O B-noun.person O B-verb.change O B-noun.attribute O O B-noun.person O O O O O O B-noun.person B-verb.stative O O O B-verb.stative O O O B-verb.social O O O O B-noun.person O B-verb.possession I-verb.possession O O B-noun.possession O
+O O B-noun.person O B-noun.state O O O B-verb.change O O B-noun.possession O
+O O B-noun.cognition B-verb.stative O O O O B-verb.perception O B-verb.communication O B-noun.state O
+O O O O O O B-verb.change O B-verb.change O O B-noun.act O O O O O O B-noun.time I-noun.time O O O O B-noun.act O O O O B-noun.act O O B-noun.act O O O O O B-noun.group B-verb.stative O O O B-noun.act O B-noun.group O O O O O B-noun.cognition B-verb.communication B-noun.person O B-noun.event O O B-verb.stative O O O O
+O O O B-verb.communication O B-noun.person B-verb.cognition O O B-noun.feeling O O B-verb.emotion O O O B-noun.person O O O B-noun.person O B-noun.person B-verb.emotion O O B-noun.possession O O B-noun.person B-verb.possession O O O O O O B-noun.attribute B-verb.cognition O O O B-noun.person B-verb.creation O O O O B-noun.group O
+O O O B-noun.cognition B-verb.communication O B-noun.person O O O O O O O B-noun.cognition B-noun.act O O O O B-verb.possession O B-noun.state O B-noun.state O
+O O O O B-noun.person O O O O O O O O O B-noun.person O O B-verb.change O O O B-verb.competition O
+O O B-noun.cognition O O O B-noun.cognition B-verb.stative O B-noun.event O O O O O B-noun.person B-noun.person B-verb.motion O B-noun.state O O O O O B-noun.event O B-verb.competition O B-noun.act O O O
+O O B-noun.person B-verb.contact O O B-noun.attribute O O O B-noun.act O B-verb.contact O O B-noun.event O O O B-noun.cognition B-verb.cognition O O B-verb.stative O O O O O
+O O O B-noun.cognition B-verb.communication O O O O O B-verb.stative O O B-noun.time B-verb.contact O B-noun.person O O B-noun.state O
+O B-noun.person O B-verb.stative B-verb.communication O B-verb.competition O O O O B-noun.possession O O O B-noun.state O B-noun.event O O B-noun.cognition O O O B-noun.person O
+O O B-noun.state O O O B-noun.person O O O O B-verb.cognition O O O O O O B-noun.act B-verb.social O O B-noun.attribute O O O O O O B-verb.social O O B-noun.act O O O O B-noun.communication O O B-noun.person O
+O O O B-noun.cognition O B-verb.possession O O O O B-noun.communication O O O O O B-verb.stative O O O O O O
+O O B-noun.state O O B-noun.person O O O O B-verb.possession O O B-noun.act O B-noun.state O O O O O O B-verb.stative O O B-verb.stative O O O O O O B-noun.possession O O O B-noun.group O B-noun.person O O O O B-verb.possession O O O B-noun.motive O B-verb.social O B-noun.person O B-noun.state O
+O O O B-noun.cognition B-verb.communication O B-noun.person O O B-verb.stative O O O B-noun.event O O B-noun.event O O O O
+O O O B-verb.stative O O O B-noun.cognition B-noun.act B-verb.stative O O O O B-noun.group O O O O B-verb.stative O O B-noun.act O O B-verb.cognition O B-noun.person B-verb.stative O O O B-verb.social O O O O O O B-noun.cognition O
+B-verb.stative O O O B-noun.act O O B-noun.cognition O O B-noun.artifact O B-noun.cognition B-verb.communication O O B-noun.communication O O B-noun.person B-verb.stative O O O B-verb.social O O O O O O B-noun.person O
+O O B-noun.person O O O O O B-verb.communication O O B-noun.person B-verb.change I-verb.change O O O O O O B-verb.possession O B-noun.group B-noun.possession O B-noun.person O O
+O O B-noun.state O O O B-noun.act O O B-noun.group B-verb.stative O O O O B-verb.communication O O B-noun.cognition B-verb.communication O B-noun.person O O O O O O B-noun.person B-noun.cognition O
+O O O O O B-noun.communication B-verb.stative O O B-noun.person O B-verb.stative O B-noun.act B-noun.time O B-noun.act B-noun.act O B-noun.person O O O B-noun.state O O B-noun.act B-verb.perception O B-noun.cognition B-noun.act O O B-verb.social O O B-noun.act O O O B-noun.time O B-noun.person O O B-verb.communication O O O O
+O B-verb.stative O O O B-noun.cognition B-verb.communication O O O O B-noun.state O O O O
+O O O B-noun.act B-noun.time O O B-verb.competition O O O B-noun.act B-noun.time O O O
+O O O B-verb.perception O O B-noun.group O B-noun.person B-verb.possession O O B-noun.relation O O O B-noun.group O B-noun.location B-noun.group O O O O B-noun.act B-verb.stative O O O B-noun.cognition B-noun.act B-noun.act B-verb.stative O O O O B-noun.group O
+O B-noun.act O B-noun.relation O O O B-noun.act O O O O O O O O O B-noun.attribute O O B-noun.group B-verb.change B-noun.group O O O O O B-verb.perception O O O O B-noun.attribute B-verb.communication O O B-noun.group O O O B-verb.cognition O O O B-noun.attribute B-noun.person B-verb.consumption O O O O O B-noun.state O O O B-noun.possession O O B-noun.group B-noun.group O
+O O B-noun.artifact O B-noun.cognition O O O O B-verb.stative O B-noun.event O O O O B-noun.act B-noun.attribute O O B-noun.event O O B-noun.attribute O O B-noun.act O O O O O B-noun.person O B-noun.location B-verb.social O O B-noun.act B-verb.stative I-verb.stative O B-verb.stative O O B-noun.relation O O O O B-noun.group I-noun.group O B-noun.possession B-noun.cognition B-verb.stative O B-noun.location O O O B-noun.possession I-noun.possession B-verb.contact O B-noun.location O O O
+B-verb.communication O O O O B-noun.person O B-noun.act O B-verb.cognition I-verb.cognition O O O B-noun.person O O B-noun.person O O O O O B-noun.person O B-noun.cognition B-verb.stative O O O
+O O O O B-verb.perception O B-verb.change O O O B-noun.act O O B-noun.location B-noun.group B-noun.state O O O O O O B-noun.state O
+B-noun.location B-noun.group B-verb.stative O O B-verb.social O O B-noun.cognition O O B-noun.relation O
+O O O B-noun.act O O O B-verb.perception O O B-verb.stative O B-noun.event O O O B-noun.event O O B-noun.location O O B-noun.cognition B-verb.stative O O O O B-noun.person O O O B-noun.act O O O B-noun.location B-noun.group B-verb.stative O O B-noun.relation O O B-noun.location B-noun.possession I-noun.possession O
+O B-noun.cognition O O O O O O B-noun.location B-noun.group B-noun.state O O B-noun.relation O O O O B-noun.act B-noun.person B-verb.perception O O B-noun.artifact I-noun.artifact O B-verb.stative O O O B-noun.communication O
+O O B-verb.communication O O O O O O O B-noun.group I-noun.group O
+O O O O O B-noun.time O O O B-verb.change B-noun.event O O O B-noun.person B-verb.contact O B-noun.act O B-noun.act O O O O
+O B-verb.possession O O O B-noun.artifact O O B-noun.artifact I-noun.artifact O
+B-noun.quantity O O B-verb.motion O B-noun.act O O B-noun.artifact O O B-noun.event O O O O O O O O O B-noun.artifact I-noun.artifact O O B-verb.stative B-noun.artifact O O O B-noun.artifact I-noun.artifact O
+O O O O O B-noun.communication B-verb.motion O O O O O O O O O O O B-verb.stative O O O O B-noun.group O O O O O
+O B-noun.quantity O O O O O B-noun.person B-verb.stative O O O O O
+O B-noun.event B-verb.change I-verb.change O O O O B-noun.time O O O O B-verb.contact I-verb.contact O O O B-verb.stative O O O B-noun.communication O
+O B-verb.stative B-noun.communication O O O B-noun.act O B-noun.time O
+O B-noun.time B-verb.stative O O B-noun.time O O O B-noun.communication O B-noun.communication B-verb.stative O B-noun.person B-verb.consumption O B-verb.communication O O
+O O O
+O O O O O B-verb.stative O O B-noun.artifact O O O O B-noun.artifact O O O B-noun.artifact O O O O O B-noun.body O B-noun.event O B-noun.event O O O B-verb.stative O O
+B-verb.motion I-verb.motion O O O O O O B-verb.motion O O B-noun.communication B-noun.artifact O B-noun.substance O O B-noun.artifact O B-noun.artifact I-noun.artifact O O O O O B-noun.artifact O
+O O O
+O O O B-verb.stative O O O O O O B-verb.stative O O B-noun.act O B-verb.change O
+O B-verb.perception O B-noun.event B-verb.change O B-verb.perception O O B-noun.group O O O O B-verb.communication O O B-noun.communication O O O B-verb.communication O B-noun.communication O O B-noun.event O O O O
+O B-verb.possession O O O O B-verb.possession O O B-noun.event O B-verb.motion O
+O B-noun.event O O O B-verb.change O O O O B-noun.artifact B-verb.change B-verb.motion O O O O O O O B-verb.stative O B-noun.person O B-noun.artifact B-noun.artifact O O O B-verb.motion O
+O O O
+O O O B-verb.stative O O O O B-noun.artifact O O B-verb.contact O
+O B-noun.time B-verb.communication O O O B-noun.artifact O B-verb.change O B-verb.contact O O B-noun.substance O
+O O O B-noun.artifact B-verb.motion O O B-noun.artifact I-noun.artifact O
+O O B-noun.artifact B-noun.artifact B-noun.artifact B-noun.event B-verb.motion O O B-noun.phenomenon O O B-noun.phenomenon O O B-noun.substance O
+O O O
+O O O O B-noun.person O O B-verb.stative O O
+O B-noun.artifact B-verb.motion O B-noun.act O O B-verb.stative B-verb.change O O
+O O O B-noun.artifact I-noun.artifact O O O O O B-verb.change O B-verb.change O B-noun.location O O B-noun.cognition O B-verb.stative O O O
+O B-noun.quantity O B-noun.artifact B-noun.communication B-verb.change I-verb.change O
+O B-noun.animal B-verb.stative O O O O O
+O O O
+O O O B-noun.event O O B-noun.artifact I-noun.artifact O O O O O O
+B-noun.location O B-verb.stative O O O B-noun.substance O B-verb.change O
+O B-noun.person O O O B-noun.artifact B-verb.stative O O B-verb.motion O O B-noun.artifact O O O B-noun.artifact O B-noun.artifact B-noun.attribute O O B-noun.event O
+O B-noun.artifact O O O O O O B-noun.object O
+O O O
+O O O O B-verb.motion O B-noun.artifact O B-verb.motion O O B-noun.communication I-noun.communication O O B-noun.artifact O O O O O O O B-noun.location O O B-verb.contact O
+O B-noun.cognition B-verb.stative B-verb.perception B-noun.artifact I-noun.artifact B-verb.motion O O B-noun.body O O B-noun.act O B-verb.motion O O
+O O O
+O O B-verb.stative O B-noun.quantity O O O B-noun.artifact O O O O
+O B-verb.motion O O O O O O O B-noun.communication B-noun.object O O O B-noun.artifact O O
+B-verb.contact O O B-noun.act O O O O
+O O O B-verb.stative I-verb.stative O O O O B-noun.artifact O O O O O O O O O O
+O B-verb.perception B-noun.artifact O O B-noun.artifact O O B-noun.body B-verb.perception O
+O O B-verb.cognition O O O B-verb.change O
+O O O B-verb.cognition O O O B-verb.motion B-noun.location O O O O O B-noun.artifact B-verb.stative O B-noun.artifact O
+O B-verb.cognition O B-verb.stative O B-noun.state O
+O B-verb.stative O O B-noun.cognition O B-noun.substance O O B-verb.motion O O B-noun.artifact O B-verb.motion O O O O O
+O O O B-verb.perception O B-noun.phenomenon O O B-noun.object O O O B-noun.event O O O O O O O O
+O O B-verb.perception O B-noun.event O
+O B-noun.body B-verb.stative O O B-noun.shape O O B-noun.body O O B-verb.body O
+O B-verb.cognition O O O O B-noun.event O O B-verb.stative O B-noun.body B-verb.body O
+O O O O O O B-verb.perception O B-noun.process O O O O O B-noun.artifact O O B-noun.object O
+O B-verb.stative O O B-verb.cognition O O O B-verb.change O
+O O O
+O O B-noun.artifact O O B-noun.artifact O B-verb.change O O O O B-noun.person O O O O B-noun.person B-verb.stative O O B-noun.artifact I-noun.artifact O
+B-noun.artifact O B-noun.communication O O
+O O B-verb.communication O O B-noun.act B-noun.attribute O
+O O O
+O O O O O O O O O O
+O O B-verb.perception O B-noun.event O O B-verb.perception O O B-noun.animal B-noun.act O
+B-noun.animal B-noun.group O
+O O O
+O O O O B-verb.perception O B-noun.event O O B-noun.time O O
+O B-verb.stative O O O
+O O O
+O O B-noun.location O B-verb.perception O B-verb.stative O B-noun.cognition O B-noun.location O B-verb.stative O O O
+O O O O B-noun.artifact O O O B-noun.state O B-noun.food O B-noun.food O O O O O O O B-noun.artifact O O O O B-noun.artifact I-noun.artifact O O O O O O
+O B-noun.state B-verb.motion O O B-noun.artifact O O B-noun.time O O B-noun.time O O O B-noun.animal O O O B-verb.stative O O B-noun.artifact O B-verb.possession B-noun.artifact O O B-noun.artifact O
+O B-verb.motion I-verb.motion O O O O O O B-verb.stative O O O O
+O B-verb.stative O O O O O B-noun.event B-verb.motion O B-noun.location O
+O O O O O O O
+O O B-noun.event B-verb.change O O O B-verb.motion O O B-noun.artifact O B-verb.stative O O O B-noun.time O B-verb.perception O B-noun.artifact B-noun.artifact O O B-noun.body B-verb.motion O O O O O O B-noun.plant B-verb.motion O O O B-noun.attribute O
+O O O B-verb.creation O B-noun.cognition O B-noun.time I-noun.time O B-noun.cognition O O B-noun.cognition O
+O B-verb.body O O O O B-verb.stative O O O B-noun.attribute O B-noun.cognition O O B-noun.event B-verb.change O
+O O O
+O O O B-verb.stative O O O O O O B-noun.location I-noun.location O B-verb.perception O O B-verb.perception I-verb.perception O O B-noun.time O O O B-verb.creation B-noun.act O O O B-noun.location I-noun.location O O B-noun.attribute O B-noun.artifact O O O O
+O B-noun.person O O B-verb.stative O O O B-noun.artifact B-noun.artifact O B-noun.location O O O B-noun.event B-verb.contact O
+O B-verb.communication O O O O B-noun.artifact B-verb.motion O O B-noun.act B-verb.motion O O B-noun.artifact O
+B-noun.time O B-verb.stative O O B-noun.group B-verb.cognition O O B-noun.cognition O O O B-verb.stative O O O B-noun.time O
+O O O
+O O O B-verb.motion B-noun.location O B-verb.social O B-noun.animal O O B-noun.artifact O B-verb.perception O B-noun.cognition O O B-noun.body O O O B-noun.person O B-verb.motion O O B-noun.artifact O O O O
+O O B-verb.perception O B-noun.artifact O B-verb.motion O O O O O B-noun.person O B-verb.motion O O O
+O B-verb.cognition O O B-verb.change O B-verb.communication O O B-noun.artifact O O B-noun.animal O
+B-noun.artifact B-noun.artifact O B-verb.motion O O B-noun.artifact I-noun.artifact O O B-noun.artifact B-verb.motion O O B-noun.quantity O O B-noun.animal B-verb.motion O O O O B-verb.motion O O O B-noun.animal O O B-verb.contact O O B-noun.artifact O O B-verb.perception O O O O B-verb.motion O O B-noun.substance O
+O O B-verb.cognition O B-verb.stative O O O B-verb.motion O B-verb.contact O O O O O B-noun.artifact O B-verb.stative O B-verb.communication O O O B-verb.motion B-noun.location O B-verb.body O O O B-verb.stative O O O O O B-verb.motion O O
+O O O B-noun.time O O B-verb.stative O O O
+O O B-verb.perception O B-noun.artifact O O O O O O O O B-verb.change O B-verb.body O
+O O O
+O O O O O O O B-verb.stative O O O O O O O O B-noun.time O B-noun.quantity O B-noun.group O B-noun.animal B-verb.motion I-verb.motion O B-verb.consumption B-noun.food O
+O O O
+O O O B-verb.stative O B-verb.motion I-verb.motion O B-verb.motion O O O B-noun.act B-noun.person O O B-noun.group O O O B-noun.artifact B-verb.change B-verb.motion O O O
+O B-verb.stative O O B-noun.artifact O B-verb.creation O O B-noun.artifact O O O O O B-verb.motion O O
+O O O O B-verb.motion B-verb.body O O B-noun.time O O O O O B-verb.stative O B-verb.motion O B-verb.motion O O B-noun.artifact O
+O O B-verb.communication O O B-verb.stative O O O B-noun.act O O O O
+O O O B-verb.communication O O O
+O B-noun.cognition B-verb.stative B-verb.emotion B-noun.group O O O B-verb.communication I-verb.communication O B-noun.artifact I-noun.artifact O O B-verb.stative O O O B-noun.time O B-verb.cognition O
+O O O
+O O O O O B-verb.stative O O B-noun.artifact I-noun.artifact O O B-noun.location B-verb.change B-verb.motion O B-noun.object B-noun.event O
+O B-verb.motion O O B-noun.artifact O B-verb.contact O O O O O B-noun.event B-verb.contact O O O B-noun.location O B-verb.contact O O O B-verb.social O B-verb.change O O B-noun.body O
+O B-verb.stative O O O O O O O O B-verb.emotion O
+B-noun.artifact O O O B-noun.artifact O
+B-noun.artifact O B-noun.artifact O O O B-noun.artifact O
+O O B-noun.artifact O O B-noun.artifact B-verb.stative O O O O O B-verb.stative O O O B-noun.artifact B-verb.stative O O
+O O O B-verb.contact O O B-noun.location O O O B-verb.stative O O B-noun.event O O B-verb.perception O O O B-noun.animal O B-verb.change O O B-noun.substance O B-verb.motion O O B-noun.location O O O O O O B-verb.stative O O O B-noun.time O O O B-verb.change O B-noun.state O
+O O O
+O O O B-verb.cognition O O O B-verb.stative O O O O B-verb.cognition O O O O O B-noun.event O
+O B-verb.stative O O B-verb.cognition O O B-verb.stative O O O B-verb.possession O B-noun.time O
+O B-verb.cognition O O O B-verb.stative O O B-verb.body O
+O O O
+O O B-noun.body B-verb.change O B-noun.artifact O O B-noun.act O B-noun.act O
+B-noun.state B-verb.perception O O B-noun.state O
+O O O O O O
+O B-verb.motion O O O O O O O O O B-noun.time O O O B-noun.time O
+O O O O O O B-noun.group O B-verb.contact O O O B-noun.artifact I-noun.artifact O B-verb.motion I-verb.motion O B-verb.communication O O B-noun.communication I-noun.communication O O O O B-noun.person B-verb.body O B-verb.communication O O B-verb.stative O O O O O B-verb.stative O O O O B-verb.communication O
+O B-verb.stative O
+O O
