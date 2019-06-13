@@ -38,7 +38,7 @@ search_space.add(Parameter.USE_CRF, hp.choice, options=[True, False])
 param_selector = SequenceTaggerParamSelector(
     corpus,
     tag_type='ner',
-    base_path="Optimisation_evals/stacks/dev",
+    base_path="Optimisation_evals/stacks/ElMO_flair/dev",
     training_runs=1, max_epochs=15,
     optimization_value=OptimizationValue.DEV_SCORE
 )
